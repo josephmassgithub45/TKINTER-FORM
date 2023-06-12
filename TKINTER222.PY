@@ -4,7 +4,7 @@ import pyodbc
 
 man=area.Tk()
 man.title('JOSEPH MASSAQUOI')
-man.configure(background='blue')
+man.configure(background='lightblue')
 man.geometry("680x540")
 
 #FUNCTIONS1111111111111111111FUNCTIONS111111111111111111111FUNCTIONS1111111111111111FUNCTIONS
